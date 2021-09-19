@@ -1,0 +1,25 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjnmzk/js-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjnmzk/js-test/issues"
+  },
+  "homepage": "https://github.com/mrjnmzk/js-test#readme",
+  "devDependencies": {
+    "jest": "^27.2.0"
+  },
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
+}
