@@ -1,4 +1,4 @@
-const multiply = require('./01');
+const multiply = require('./multiply');
 
 const numberArr = [20, 33, 34, 22, 40, 6, 8, 9, 115, 36, 12, -33];
 
